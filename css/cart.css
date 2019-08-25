@@ -1,0 +1,13 @@
+.op{
+	opacity:0.6;
+}
+#remove:hover{
+cursor: pointer;
+opacity: 0.6;
+}
+.hei{
+	height:510px;
+}
+.heisafari{
+	height:526px;
+}
